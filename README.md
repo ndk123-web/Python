@@ -7,7 +7,7 @@ This repository contains my journey of learning Python programming. It includes 
 
 ## 📖 Overview
 
-This repository serves as a collection of Python scripts and programs created during my learning process. The code ranges from basic concepts to more advanced implementations, showcasing my progression in Python programming.  
+This repository serves as a collection of Python scripts and programs created during my learning process. The code ranges from basic concepts to more advanced implementations, showcasing my progression in Python programming.
 
 The repository includes:
 - Basic Python syntax examples
@@ -34,12 +34,15 @@ Feel free to explore the code in this repository. Each file is self-contained an
 
 ```bash
 python filename.py
-🤝 Contributing
-While this is primarily a personal learning repository, suggestions and feedback are welcome! If you have any improvements or ideas, feel free to:
 
-Open an issue 🐛
+## 🤝 Contributing
 
-Create a pull request ✍️
+This repository is primarily for personal learning purposes.  
+However, if you have any suggestions, feel free to:
+1. Open an issue 🐛
+2. Share your feedback ✍️
+
+Pull requests are not expected or required at this moment.
 
 📚 Learning Resources
 Some helpful resources I've been using to learn Python:
