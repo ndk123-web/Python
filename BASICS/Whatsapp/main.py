@@ -15,7 +15,7 @@ from twilio.rest import Client
 from datetime import timedelta , datetime 
 import time 
 
-#step - 2 
+#step - 2 // u can use your own this may be expire now 
 account_sid = 'AC1aac6ba19c3b363282528fd134e7708f'
 auth_token = 'e2f3da589967d95ba0a64078947a6edf'
 
